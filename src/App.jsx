@@ -6,7 +6,7 @@ const App = () => {
     <>
       <header className="p-4 text-center dark:bg-slate-800">
         <h1 className="text-2xl font-bold text-indigo-800 dark:text-sky-200">
-          Simple and Compound Interest Calculator
+          Interest Calculator
         </h1>
       </header>
 
